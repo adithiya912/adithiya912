@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adithiya</h1>
 <h3 align="center">
-  🧠 Full Stack Developer | Building seamless web experiences with react & express.js
+  🧠 Full Stack Developer | Building seamles web experiences with react & express.js
   </br>
   🤖 ML Engineer | Developing smarter solutions with Python & TensorFlow
   </br>
