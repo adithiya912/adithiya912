@@ -6,7 +6,7 @@
   </br>
   🧠 Problem Solver | Mastering DSA for efficient and scalable systems
   </br>
-  🔧 AI Innovator | Integrating AI into real-world applications & IoT
+  🔧 AI Innovator | Integrating AI into real-world applications & Iot
 </h3>
 
 <p align="center">
